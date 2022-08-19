@@ -1,0 +1,12 @@
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\obj\Debug\LoginForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Bisrat\Desktop\Asiya\LoginForm\obj\Debug\LoginForm.Main.resources
